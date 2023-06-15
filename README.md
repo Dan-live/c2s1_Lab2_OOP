@@ -1,3 +1,2 @@
-
-![image](https://github.com/Dan-live/Lab2_OOP/assets/109356212/7a445d5f-21bf-47c8-90d9-97d4750c091e)
-![image](https://github.com/Dan-live/Lab2_OOP/assets/109356212/3ad3305c-25ef-4245-993f-9cfd12dc4c74)
+![image](https://github.com/Dan-live/Lab2_OOP/assets/109356212/fed3e094-cd39-45ff-958f-9c2828e5be51)
+![image](https://github.com/Dan-live/Lab2_OOP/assets/109356212/96cd61cf-da14-4b55-97ff-1913801e4f80)
